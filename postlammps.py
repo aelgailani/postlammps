@@ -317,3 +317,4 @@ def show_field(xyz, field, labels=['xlable', 'ylabel'], org=True, i=1, dpi=40, r
 		plt.savefig('teststrain.png', dpi=dpi)
 
 	plt.show()
+	
